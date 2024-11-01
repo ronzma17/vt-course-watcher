@@ -1,0 +1,12 @@
+{
+  "smtp_server": "smtp.gmail.com",
+  "smtp_port": 465,
+  "use_ssl": true,
+  "use_starttls": false,
+  "username": "your_email@gmail.com",
+  "password": "your_app_password",
+  "to": [
+    "your_email@gmail.com"
+  ],
+  "subject_prefix": "[VT Seat Alert]"
+}

@@ -1,0 +1,5 @@
+selenium==4.23.1
+webdriver-manager==4.0.2
+python-dotenv==1.0.1
+win10toast==0.9
+colorama==0.4.6

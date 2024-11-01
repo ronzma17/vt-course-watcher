@@ -1,0 +1,10 @@
+{
+  "crns": [
+    "91234",
+    "93456"
+  ],
+  "poll_seconds": 60,
+  "max_errors_before_restart": 8,
+  "keep_page_awake_minutes": 10,
+  "notify_repeat": false
+}
